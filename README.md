@@ -1,8 +1,11 @@
 # Details
 
 Name    : Pristian Budi Dharmawan
+
 Class   : LA20
+
 NIM     : 2501983105
+
 Course  : COMP6856004 – Popular Programming Technology
 
 ## LINK
